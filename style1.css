@@ -1,0 +1,16 @@
+body {
+  margin: 0 auto ;
+  text-align: center;
+}
+
+h1 {
+  color: orange;
+}
+
+h2 {
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+}
